@@ -22,15 +22,6 @@ Date,Description,Amount
 2025-06-07,CLOUDFLARE,757.5
 ```
 
-## Dependencies
-- csv-parser: For CSV file parsing
-- date-fns: For date formatting
-
-## Installation
-```bash
-npm install csv-parser date-fns
-```
-
 ## Usage
 1. Place your input CSV file as `bill.csv`
 2. Run the script:
